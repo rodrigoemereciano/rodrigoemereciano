@@ -9,7 +9,7 @@
 
 <br/>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rodrigoemereciano)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rodrigoemereciano&theme=chartreuse-dark&show_icons=true)
 
 <br />
 
