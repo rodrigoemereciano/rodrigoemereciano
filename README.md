@@ -1,1 +1,16 @@
-# rodrigoemereciano
+
+### Hi 👋, I'm Rodrigo.
+
+- I'm interest in DevOps and in infrastructure Cloud.
+
+- 🌱 I’m currently learning AWS, Kubernetes, Docker, Terraform, Ansible, Python...
+
+- 🔭 I appreciate data analysis to identify the occurrence of behavior patterns. 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rodrigoemereciano)
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
+
+
+
